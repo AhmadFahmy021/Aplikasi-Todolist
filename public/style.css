@@ -1,0 +1,21 @@
+.floating{
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+
+}
+
+.link-card:hover{
+    box-shadow: 20px;
+    color: black;
+}
+.modal-footer{
+    float: left;
+}
+
+.row-main{
+    margin-top: 70px;
+    margin-bottom: 120px;
+}
+
